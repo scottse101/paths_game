@@ -1,0 +1,33 @@
+My Story - The Great Goblin King
+
+::Beginning
+You wake up in a dark room. The air feels heavy, and the only source of light is a faint glow coming from a mysterious orb floating in the center. As you slowly regain your senses, you notice a small health potion lying on the ground, shimmering with magical energy. Its presence offers a glimmer of hope in this otherwise daunting situation.
+[Go to Passage 1](Passage 1)
+*health: +20*
+*gold: +10*
+*score: +10*
+[Go to Passage 2](Passage 2)
+[Go to Passage 4](Passage 4)
+[Go to Passage 5](Passage 5)
+
+::Passage 4
+Curiosity overcomes caution, and you venture forth into the goblin hut. The moment you step inside, a mischievous voice echoes through the room. "Hello there, traveler. My name is Baba," says the Goblin King, appearing before you. "Growling... Are you ready for a challenge?" Before you can respond, the room transforms into a mind-bending maze, where walls shift and paths change with every step. Baba cackles with glee as you attempt to navigate the perplexing labyrinth. Time seems to stand still, and it takes all your wits to overcome the ever-changing obstacles. After what feels like an eternity, you reach the center of the maze, where Baba awaits. "Impressive," he admits, a wicked grin on his face. "You have proven yourself. Take this artifact as a token of your triumph." He hands you a big crown, pulsating with untold power.
+[Go to Passage 3](Passage 3)
+*inventory: +Goblin King's Crown*
+*health: +10*
+
+::Passage 3
+You enter a room filled with intricate puzzles, each more challenging than the last. Ancient symbols adorn the walls, and enigmatic mechanisms await your touch. Time seems to blur as you immerse yourself in deciphering the cryptic riddles. Hours pass, but your determination remains unwavering. Your mind sharpens with each puzzle solved, unraveling the secrets of the room. Finally, a resounding click reverberates through the chamber, signaling your victory. As the last puzzle piece falls into place, the room illuminates, revealing a hidden passage. You step through, filled with a newfound sense of accomplishment and wonder.
+[Go to Passage 4](Passage 4)
+[Go to Passage 2](Passage 2)
+*inventory: +Ancient Key*
+*score: +30*
+*gold: +20*
+
+::Passage 2
+You cautiously enter a dimly lit room, feeling the weight of unseen eyes upon you. Suddenly, hulking monsters emerge from the shadows, their menacing forms towering over you. You draw your sword, prepared for a battle that will test your mettle. The clash of steel fills the air as you face the relentless onslaught of the creatures. With each swing of your weapon, you feel the dragon's power surging within you, its ancient claws aiding your strikes. After a fierce struggle, you emerge victorious, the room now silent save for your heavy breathing.
+[Go to Passage 3](Passage 3)
+*inventory: +Dragon Claws*
+*inventory: +Dragon*
+*health: +20*
+[Go to Passage 4](Passage 4)

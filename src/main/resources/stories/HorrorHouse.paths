@@ -1,0 +1,52 @@
+The Horror House
+
+::Entry Hall
+You step into a foreboding mansion, its walls adorned with eerie, writhing vines. The atmosphere is thick with an unsettling aura as you cautiously make your way forward. In the center of the room, you spot a strange altar adorned with grotesque statues. Trembling, you approach the altar, and to your horror, the statues come to life. Their eyes glow with malevolence as they lunge at you, their claws and fangs ready to tear you apart. Panic grips your heart, but you refuse to succumb. With quick thinking and agile movements, you evade their attacks, striking back with determination. One by one, the statues crumble into dust until only silence reigns.
+[Goto Dining Room](Dining Room)
+[Go to Hidden Library](Hidden Library)
+*inventory: +Ornate Amulet*
+*gold: +10*
+*score: +10*
+
+::Forgotten Gallery
+You find yourself in a gallery that defies reality, its walls rippling and shifting, warping your perception of space. Whispers fill the air, their ethereal voices sending chills down your spine. Suddenly, shadowy figures materialize around you, their distorted forms swaying in an otherworldly dance. You attempt to flee, but your movements are sluggish, as if trapped in a never-ending nightmare. The figures draw nearer, their ghostly touch seeping into your very soul. With a surge of determination, you gather every ounce of strength to break free from their grasp. Summoning an inner reserve of willpower, you manage to escape the nightmarish gallery, leaving the haunting figures behind.
+[Go to Entry Hall](Entry Hall)
+[Go to Hidden Library](Hidden Library)
+*inventory: +Talisman of Shadows*
+*health: +20*
+*score: +10*
+*gold: +20*
+
+::Hidden Library
+You stumble upon a secret chamber, its air heavy with the weight of ancient secrets. In the center of the room lies a mysterious book, its pages pulsating with dark energy. Curiosity outweighs caution, and you approach the book, its whispers calling to you. As you touch it, the whispers grow louder, filling your mind with forbidden knowledge. Visions of horror and madness flood your consciousness, threatening to consume you. Desperate to break free, you tear yourself away from the book, its power lingering in your thoughts. The room fades away, leaving you shaken and wary.
+[Go to Forgotten Gallery](Forgotten Gallery)
+[Go to Hidden Corridor](Hidden Corridor)
+*inventory: +Cursed Tome*
+*health: +10*
+*score: +10*
+*gold: +10*
+
+::Hidden Corridor
+You enter a dimly lit corridor, enveloped in darkness save for a solitary candle casting flickering shadows. An unsettling presence hangs in the air, and sinister whispers echo through the space, their source eluding your sight. The flame of the candle flickers and dims, deepening the shadows with each breath you take. A suffocating dread fills the corridor, and you can feel an unseen entity drawing nearer. Gathering your courage, you steel yourself to confront the darkness. Just as you prepare for the worst, the corridor suddenly brightens, the whispers fading away into an eerie silence.
+[Go to Dining Room](Dining Room)
+[Go to Forgotten Gallery](Forgotten Gallery)
+*inventory: +Glowing Lantern*
+*health: +10*
+*score: +20*
+
+::Dining Room
+You enter a lavish dining room, its table set with a feast fit for a king. The aroma of the food is intoxicating, and your stomach growls in hunger. You reach for a piece of fruit, but as you take a bite, the food turns to ash in your mouth. The room begins to spin, and you feel yourself growing weaker. You try to escape, but your legs give out, and you collapse to the floor. As you lie there, helpless, you hear a sinister laugh, and a shadowy figure approaches you. You try to fight back, but your strength is gone. The figure looms over you, its eyes gleaming with malice. You close your eyes, bracing for the end, but when you open them again, the figure is gone, and you are alone in the dining room.
+[Go to Kitchen](Kitchen)
+[Go to Hidden Library](Hidden Library)
+*inventory: +Silver Knife*
+*health: +20*
+*score: +10*
+
+::Kitchen
+You enter a kitchen, its shelves lined with jars of strange ingredients. The air is thick with the scent of herbs and spices, and you feel a sudden urge to taste them. You reach for a jar, but as you open it, a cloud of noxious fumes fills the room. You cough and sputter, struggling to breathe. Your vision blurs, and you feel yourself growing weaker. You try to escape, but your legs give out, and you collapse to the floor. As you lie there, helpless, you hear a sinister laugh, and a shadowy figure approaches you. You try to fight back, but your strength is gone. The figure looms over you, its eyes gleaming with malice. You close your eyes, bracing for the end, but when you open them again, the figure is gone, and you are alone in the kitchen.
+[Go to Entry Hall](Entry Hall)
+[Go to Hidden Corridor](Hidden Corridor)
+*inventory: +Tuna*
+*health: +50*
+
+

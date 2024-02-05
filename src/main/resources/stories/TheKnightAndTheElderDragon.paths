@@ -1,0 +1,45 @@
+The Knight and the Elder Dragon
+
+::Morning Sun
+The morning sun rises over the kingdom, casting a golden glow across the land. In a humble cottage on the outskirts of the realm, a young Knight awakens from a restless slumber. He feels a surge of determination in his heart as he remembers his main goal to defeat the fearsome Elder Dragon that threatens the kingdom's peace. With steely resolve, he dons his armor, fastens his sword to his side, and steps out into the world, ready to face the challenges that lie ahead.
+[Continue to The Enchanted Forest](The Enchanted Forest)
+
+::The Enchanted Forest
+The young Knight's journey takes him through an ancient and mystical forest, its trees towering above him like ancient guardians. The air is thick with enchantment, and the sounds of mythical creatures whisper through the leaves. Suddenly, a mischievous sprite appears before him, teasingly darting in and out of his path. Determined not to be deterred, The Knight follows the sprite's trail, winding deeper into the forest's heart. Finally, after a series of clever maneuvers, he catches the sprite, and it rewards him with a magical amulet—a gift to aid him in his battle against the Elder Dragon.
+[Continue to The Hidden Cave](The Hidden Cave)
+*inventory: +Sprite's Amulet*
+*gold: +10*
+*score: +10*
+
+::The Hidden Cave
+As the Knight continues his quest, he stumbles upon a hidden cave concealed by a cascade of ivy. Curiosity piqued, he cautiously enters the cavernous darkness. Inside, he discovers a treasure chest gleaming with ancient runes. With caution, he opens the chest, revealing a gleaming suit of armor infused with the power of the earth. He dons the armor, feeling its weight settle upon his shoulders, and senses a surge of resilience coursing through his veins. Empowered by the enchanted armor, he continues his journey, his determination burning brighter than ever.
+[Continue to Lancelot's Sword](Lancelot's Sword)
+*inventory: +Earthforged Armor*
+*health: +20*
+*score: +10*
+*gold: +20*
+
+::Lancelot's Sword
+The knight approached his gleaming armor and carefully fastened it, piece by piece, onto his sturdy frame. As he reached for his trusted weapon, he noticed a glimmering object resting beside it—a legendary sword known as Lancelot's Sword. Its hilt was adorned with intricate engravings depicting heroic tales of knights of old. The knight's heart swelled with gratitude, for this treasured blade had been bestowed upon him by the wise sorcerer Merlin himself. With Lancelot's Sword in hand, the knight felt an undeniable surge of power coursing through his veins. Its blade had been forged with the finest steel, imbued with magic that granted it the ability to pierce through the toughest scales and armor. The knight knew that this weapon would be his greatest ally in his quest to defeat the Elder Dragon. Filled with renewed vigor, the knight strapped Lancelot's Sword to his side, ready to face the challenges that lay ahead. He took one last look at his humble abode, knowing that his return would mark the end of an era of darkness and fear. With a resolute nod, he set forth on his noble quest.
+[Continue to The Dragon's Lair](The Dragon's Lair)
+*inventory: +Lancelot's Sword*
+*health: +10*
+*score: +10*
+
+::The Dragon's Lair
+After a perilous journey, the Knight arrives at the entrance of the Elder Dragon's lair—an imposing cavern nestled within the treacherous mountains. The ground trembles beneath his feet as the dragon's roars echo through the air. Undeterred, Sir Roland takes a deep breath and steps into the lair, his sword drawn and his heart filled with unwavering courage. The dragon's fiery breath engulfs him, but he skillfully evades the scorching flames. With each strike of his sword, he chips away at the dragon's scales, determined to bring the fearsome creature down. The battle rages on, both knight and dragon unleashing their might. Finally, with a final, decisive blow, The Knight strikes the Elder Dragon's heart, vanquishing the beast and fulfilling his main goal.
+[Continue to The Triumph](The Triumph)
+*inventory: +Dragon's Scale*
+*health: +10*
+*score: +10*
+*gold: +10*
+
+::The Triumph
+The Young Knight emerges from the dragon's lair, his body battered and weary, but his spirit triumphant. The kingdom rejoices as word spreads of his victory over the Elder Dragon. He is hailed as a hero, a champion who saved the realm from destruction. The king bestows upon him a grand feast and a reward befitting his bravery. The Knight, humbled by the adulation, shares his tales of the epic battle, inspiring young knights and filling their hearts with the same courage that led him to victory. And so, The Knight's name is etched into the annals of history, forever remembered as the knight who faced the mightiest of foes and emerged victorious.
+[The End](The End)
+*inventory: +King's Medal*
+*score: +100*
+*gold: +100*
+
+::The End
+You have reached the end of the story. Thank you for playing!

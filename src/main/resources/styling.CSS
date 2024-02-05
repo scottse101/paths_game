@@ -1,0 +1,286 @@
+.link-button {
+  -fx-background-color: #6a5acd;
+  -fx-text-fill: #F9DC24;
+  -fx-padding: 10px 20px;
+  -fx-background-radius: 0;
+  -fx-border-width: 1px;
+  -fx-border-color: #000000;
+  -fx-background-image: url("images/backgrounds/osrs_button.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-focus-color: transparent;
+  -fx-background-insets: 0;
+}
+
+.link-button:hover {
+  -fx-background-color: #9370db;
+  -fx-text-fill: white;
+  -fx-border-color: #9370db;
+}
+
+.link-button:pressed {
+  -fx-background-color: #4b0082;
+  -fx-text-fill: white;
+  -fx-border-color: #4b0082;
+}
+
+.game-pane {
+    -fx-background-image: url("images/backgrounds/test.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-padding : 10px;
+}
+
+.audio-button {
+    -fx-background-image: url("images/icons/modified_audio.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-radius: 15px;
+    -fx-background-color: transparent;
+}
+
+.mute-button {
+    -fx-background-image: url("images/icons/mute_audio.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-radius: 15px;
+    -fx-background-color: transparent;
+}
+
+.undo-button {
+  -fx-background-color: #6a5acd;
+  -fx-text-fill: #F9DC24;
+  -fx-padding: 10px 20px;
+  -fx-background-radius: 0;
+  -fx-border-width: 1px;
+  -fx-border-color: #000000;
+  -fx-background-image: url("images/backgrounds/osrs_button.png");
+  -fx-background-size: cover;
+  -fx-background-repeat: no-repeat;
+  -fx-focus-color: transparent;
+  -fx-background-insets: 0;
+}
+
+.undo-button:hover {
+  -fx-background-color: #9370db;
+  -fx-text-fill: white;
+  -fx-border-color: #9370db;
+}
+
+.undo-button:pressed {
+  -fx-background-color: #4b0082;
+  -fx-text-fill: white;
+  -fx-border-color: #4b0082;
+}
+
+.help-button {
+    -fx-background-image: url("images/icons/help_cropped.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+
+.tooltip {
+    -fx-background-color: #f9a135;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.context-menu {
+      -fx-text-fill: #F9DC24;
+      -fx-border-width: 1px;
+      -fx-border-color: #000000;
+      -fx-background-image: url("images/backgrounds/osrs_button.png");
+      -fx-background-size: cover;
+      -fx-background-repeat: no-repeat;
+      -fx-focus-color: transparent;
+      -fx-background-insets: 0;
+}
+
+@font-face {
+    font-family: 'Runescape';
+    src: url('/gielenor_font.ttf');
+}
+
+.menu-item {
+    -fx-text-fill: #F9DC24;
+    -fx-background-color: transparent;
+    -fx-font-size : 12px;
+     font-family: 'Runescape', sans-serif;
+}
+
+.home-page {
+    -fx-background-image: url("images/backgrounds/homepage_background.png");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+}
+
+.text-field {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.right-option {
+    -fx-background-image: url("images/icons/right_option_cropped.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+
+.left-option {
+    -fx-background-image: url("images/icons/left_option_cropped.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+
+.playerinfo-page {
+    -fx-background-image: url("images/backgrounds/brown_background_player.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+
+.confirm-button {
+    -fx-background-image: url("images/icons/confirm_button_cropped.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-padding: 0, 0, 5%, 0;
+}
+
+.alert {
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #000000;
+    -fx-border-radius: 5px;
+}
+
+.alert .header-panel {
+    -fx-background-color: #CCCCCC;
+    -fx-font-weight: bold;
+}
+
+.alert .content {
+    -fx-font-size: 14px;
+}
+
+.popup-message {
+    -fx-background-image: url("images/backgrounds/partyGIF.gif");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-padding: 10px;
+    -fx-radius: 5px;
+    -fx-border-width: 1px;
+    -fx-border-color: #000000;
+    -fx-text-fill: #ffffff;
+    -fx-shape: "M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0";
+    -fx-min-width: 200px;
+    -fx-min-height: 200px;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+    }
+
+.popup-message2 {
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-padding: 10px;
+    -fx-radius: 5px;
+    -fx-text-fill: #ffffff;
+    -fx-min-width: 200px;
+    -fx-min-height: 200px;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+    }
+
+.continue-page {
+    -fx-background-image: url("images/backgrounds/brown_background_player.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+
+.item-background {
+    -fx-background-image: url("images/backgrounds/inventory_background.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+.logout-button {
+    -fx-background-image: url("images/icons/logout_icon.png");
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+}
+
+.play-game-button {
+    -fx-text-fill: #ff6600;
+    -fx-stroke: black;
+    -fx-stroke-width: 1px;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.health-label {
+    -fx-text-fill: #ff3333;
+    -fx-text-setWrapText: true;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.score-label{
+    -fx-text-fill: #ffb400;
+    -fx-setWrapText: true;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.gold-label-low {
+    -fx-text-fill: #FFFFFF;
+    -fx-setWrapText: true;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.gold-label-medium {
+    -fx-text-fill: #F0D848;
+    -fx-setWrapText: true;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.gold-label-high{
+    -fx-text-fill: #00FF00;
+    -fx-setWrapText: true;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.passage-title{
+    -fx-text-fill: #F9DC24;
+    -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.passage-text {
+     -fx-text-fill: #FFFFFF;
+     -fx-effect: dropshadow(gaussian, black, 1, 1, 0, 0);
+}
+
+.horror-house {
+    -fx-background-image: url("images/backgrounds/horror_house.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-padding: 10px;
+}
+
+.horror-staircase {
+    -fx-background-image: url("images/backgrounds/horror_staircase.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-padding: 10px;
+}
+
+.knight-and-dragon {
+    -fx-background-image: url("images/backgrounds/dragon_background.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-padding: 10px;
+}

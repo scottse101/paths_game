@@ -1,0 +1,22 @@
+My Story
+
+::Beginning
+You wake up in a dark room.
+[Go to Passage 1](Passage 1)
+[Go to Passage 2](Passage 2)
+[Go to Passage 4](Passage 4)
+
+::Passage 3
+You enter a room filled with puzzles.
+
+::Passage 2
+You enter a room filled with monsters.
+[Go to Passage 3](Passage 3)
+
+::Passage 1
+You enter a room filled with treasure.
+[Go to Passage 3](Passage 3)
+*gold: +10*
+*gold: +20*
+[Go to Passage 4](Passage 4)
+*inventory: +Sword*
